@@ -1,6 +1,6 @@
 # Homebrew Tap
 
-Personal Homebrew tap for Jelly Labs apps.
+Personal Homebrew Taps
 
 ## Usage
 
