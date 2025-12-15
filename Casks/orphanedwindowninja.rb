@@ -1,6 +1,6 @@
 cask "orphanedwindowninja" do
   version "1.0.0"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  sha256 "ab38ced6ce790f5edc81e40c785f01e197d666e37cf852fd7917313e29399cd8"
   url "https://github.com/dustingelegonya/OrphanedWindowNinja/releases/download/v#{version}/OrphanedWindowNinja.zip"
   name "OrphanedWindowNinja"
   desc "macOS utility"
