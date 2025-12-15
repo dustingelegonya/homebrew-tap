@@ -1,6 +1,6 @@
 cask "jellyfishninja" do
-  version "1.0"
-  sha256 "a86025f3ae99c5052b372e6437501b4ce994e85822c7e00cea413509e5fe969b"
+  version "1.0.1"
+  sha256 "c3319f1217e5672750b8bcd1d993af12a94d099f551bed853015961d9cd65a45"
 
   url "https://github.com/dustingelegonya/jellyfish.ninja/releases/download/v#{version}/JellyfishNinja-#{version}.zip"
 
